@@ -2,7 +2,7 @@
 
 This program allows you to generate a GIF using the GIPHY API. You can specify the search query, API key, and output path to generate and save a GIF file.
 
-![Example Snapshot](images/snapshot of project.jpg)
+![snapshot of project](https://github.com/Rithikraj7/GIF_Generator/assets/108055323/a5bf5d00-acf4-499d-9f6d-836d34916652)
 
 ## Prerequisites
 
